@@ -1,0 +1,39 @@
+{
+    "books":[
+        {
+            "id": 1,
+            "title": "The Snowy Day",
+            "author": "Ezra Jack Keats"
+        },
+        {
+            "id": 2,
+            "title": "Where the Wild Things Are",
+            "author": "Maurice Sendak"
+        },
+        {
+            "id": 3,
+            "title": "The Old Truck",
+            "author": "Jarrett Pumphrey and Jerome Pumphrey"
+        },
+        {
+            "id": 4,
+            "title": "Crown: An Ode to the Fresh Cut",
+            "author": "Derrick Barnes and Gordon C. James"
+        },
+        {
+            "id": 5,
+            "title": "Julián Is A Mermaid",
+            "author": "Jessica Love"
+        },
+        {
+            "id": 6,
+            "title": "Miss Rumphius",
+            "author": "Barbara Cooney"
+        },
+        {
+            "id": 7,
+            "title": "The Girl Who Loved Wild Horses",
+            "author": "Paul Goble"
+        }
+    ]
+}
