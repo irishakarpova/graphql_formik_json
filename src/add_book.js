@@ -19,7 +19,7 @@ export default function AddBook(){
           })
         }
       })
-      const handleSubmit =  ( values, actions) => {
+      const handleSubmit = ( values, actions) => {
         createBook({variables: values});
         actions.setSubmitting(false);
         actions.resetForm()
@@ -29,7 +29,6 @@ export default function AddBook(){
         <Formik 
             initialValues={{author: '', title:''}}
             onSubmit={(values, action) => handleSubmit(values, action)}
-            
         >
             <Form >
                 <Field 
